@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: lint-gradle-api-26.6.2">
+    <CLASSES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.6.2/e6efe0e316db0b0db3cbac410ebecc7d20f1c70a/lint-gradle-api-26.6.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://D:/.gradle/caches/modules-2/files-2.1/com.android.tools.lint/lint-gradle-api/26.6.2/e2fc6a2600e7ed0c51d65deb17ad640235fc5738/lint-gradle-api-26.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
